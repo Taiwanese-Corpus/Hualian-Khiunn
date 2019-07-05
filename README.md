@@ -43,7 +43,7 @@
 * Lio̍k-ha̍p tuān 六合傳
 * 你真厲害，目睭小可liû--一-下就知影矣。
 * 這頂phòng-tshn̂g nńg-sìm-sìm 床軟軟好睏
-* 你去糊牛屎啦。 自認倒霉
+* Lí khí kôo gû-sái--lah. 你去糊牛屎啦。 (糊牛屎:自認倒霉)
 * nńg-kô-lō-sô / 軟-kô-lō-sô 人軟軟
 * Mi-á-mái （宮前村，tann吉安鄉慶豐村）
 * Pak-tshiong-tshun 北昌村
