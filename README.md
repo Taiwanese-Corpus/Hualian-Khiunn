@@ -7,7 +7,7 @@
 * 蹛佇佗位 tuà tī tá-uī
 * 蹛佇佗位 tuà tī taih
 * 台語 Tâi-gú
-* 啥乜/啥物？ Sánn-mé?
+* 啥乜/啥物？Sánn-mé?
 * 這食著tīng-khainn-khainn （~= tīng-khok-khok𠕇硞硞）
 * pān-kin-thâu pān-kin-thâu 共我剾pān-kin-thâu一下
 * Hiânn-tshâ-thinn-hué-to̍h 搧風點火
@@ -44,3 +44,15 @@
 * 這頂phòng-tshn̂g nńg-sìm-sìm 床軟軟好睏
 * 你去糊牛屎啦。 自認倒霉
 * nńg-kô-lō-sô / 軟-kô-lō-sô 人軟軟
+* Mi-á-mái （宮前村，tann吉安鄉慶豐村）
+* Pak-tshiong-tshun 北昌村
+* tshia-lián-kué/tshia-lián-kír 車輪粿
+* tsí-pn̄g 煮飯
+* [ian會唸做ien]tiān-sī/sîn-sian
+* Lí-hî-thâm 鯉魚潭
+* Hue-lian -> Hua-lian/Hua-liân/Hue-liân 花蓮（by 某乜 Hua-tiong ê 老師）
+* Ka-lé-uán 花蓮新城鄉加禮宛
+* Lí sī khùn kàu tē kuí tiān? 你是睏到第幾殿？ 你是睡死睡到地獄第幾層去了？
+
+## LICENSE
+CC0 版權
