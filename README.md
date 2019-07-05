@@ -48,12 +48,14 @@
 * Mi-á-mái （宮前村，tann吉安鄉慶豐村）
 * Pak-tshiong-tshun 北昌村
 * tshia-lián-kué/tshia-lián-kír 車輪粿
-* tsí-pn̄g 煮飯
+* tsú-pn̄gtsí-pn̄g 煮飯
 * [ian會唸做ien]tiān-sī/sîn-sian
 * Lí-hî-thâm 鯉魚潭
 * Hue-lian -> Hua-lian/Hua-liân/Hue-liân 花蓮（by 某乜 Hua-tiong ê 老師）
 * Ka-lé-uán 花蓮新城鄉加禮宛
 * Lí sī khùn kàu tē kuí tiān? 你是睏到第幾殿？ 你是睡死睡到地獄第幾層去了？
+* sam-á-tshiu 參仔鬚 人蔘鬚
+
 
 ## LICENSE
 CC0 版權
