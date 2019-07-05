@@ -1,5 +1,5 @@
-# Hualian-Khiunn
-佇花蓮聽著的腔口（可能會濫清水腔）
+# Hua-lian Tshing-tsuí khiunn
+佇花蓮厝內聽著--的（濫清水腔）
 
 * 關門 kuinn mn̂g
 * 工課 khang-khì
