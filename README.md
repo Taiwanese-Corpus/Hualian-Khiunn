@@ -19,7 +19,7 @@
 * Siang-bīn-(to)-kuí 雙面(刀)鬼
 * 弄家散宅 lōng-ke-suànn-the̍h 你按呢吵甲規間lōng-ke-suànn-the̍h敢好？
 * 痟狗舂墓壙 siáu-káu tsing bōng-khòng 你siáu-káu tsing bōng-khòng。
-* 輕手 彼醫生袂䆀，蓋輕手。（袂疼）
+* khin-tshiú 輕手 彼醫生袂䆀，蓋輕手。（袂疼）
 * 粗跤粗手
 * 贊普 tsàn-phóo 幫忙增加普渡品的桌數 來去共王母娘娘tsàn-phóo（贊普）。
 * 我聽龜咧吼，哪有可能發生遮好空ê代誌
@@ -30,6 +30,7 @@
 * 肉冊 言情小說
 * 一圈腹肚the--出-來
 * 蓋捌禮數。
+* Khì lâng tau ài tsiàu lâng ê lé. 去人兜愛照人的禮。 到人家家要遵守人家的規矩。
 * 你mőo遐爾thian-thé，共賰--ê食予了。
 * 莫講人閒仔話/尻川後話/長短跤話
 * Tshenn-mê kue tok-tio̍h thâng 青盲雞啄著蟲
