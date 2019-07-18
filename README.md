@@ -55,7 +55,7 @@
 * Ka-lé-uán 花蓮新城鄉加禮宛
 * Lí sī khùn kàu tē kuí tiān? 你是睏到第幾殿？ 你是睡死睡到地獄第幾層去了？
 * sam-á-tshiu 參仔鬚 人蔘鬚
-
+* oo-khak-li̍k-á 烏殼綠仔 烏殼綠竹筍
 
 ## LICENSE
 CC0 版權
